@@ -17,3 +17,6 @@ npm start
 ```
 ## Usage
 Type in bussines name and city name, click let's go
+
+## Screenshot
+![](src/demo.png)
