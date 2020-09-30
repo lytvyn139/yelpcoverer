@@ -1,22 +1,34 @@
 # yelpcoverer
-Still using Yelp ? Forget about it ! yelp+discoverer = yelpcoverer...
-Jk it's actually ReactJS app powered by Yelp API.
-It allows user to search for a specific business, in the desired area.
 
-## Live demo
-hosted for unknown period here => http://18.222.221.41
+[Live here](https://yelpcoverer.netlify.app/) for an **unknown period** of time.
+
+Single page ReactJS web application, inspired by Yelp.com.
+
+- Easily allows users to search, help connect people with great local businesses.
+- It informs future customers of what they might expect and it keeps standards high.
+
+## Stack used
+
+- ReactJS
+- YelpAPI
 
 ## Installation
-to run the project you must have nodejs, npm installed:
+
+add your own Yelp API KEY to the file `./util/Yelp.js`
 
 ```cs
-cd yelpcoverer
-#add your own Yelp fox_face API KEY to the file ./util/Yelp.js
 npm i
 npm start
 ```
-## Usage
-Type in bussines name and city name, click let's go
+
+## Author
+
+IURII LYTVYN
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshot
+
 ![](src/demo.png)
